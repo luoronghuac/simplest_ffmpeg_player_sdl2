@@ -28,7 +28,6 @@ SU（SDL Update）版在视频解码的过程中，不再使用延时40ms的方式，而是创建了
 （1）SDL弹出的窗口可以移动了
 （2）画面显示是严格的40ms一帧
 
-
 This software is a simplest video player based on FFmpeg.
 Suitable for beginner of FFmpeg.
 Solutions contains 6 Project:
